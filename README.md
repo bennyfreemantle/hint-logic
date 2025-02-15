@@ -1,6 +1,6 @@
 # Hint Function Testing
 
-This project demonstrates the testing of a stateful function (`hint`) using Jest. It includes examples of input validation, state management, and providing hints based on the number of incorrect guesses.
+This project demonstrates the testing of a stateful function (`hint`) using Jest to help assist a mentee student. It includes examples of input validation, state management, and providing hints based on the number of incorrect guesses.
 
 ## Features
 
